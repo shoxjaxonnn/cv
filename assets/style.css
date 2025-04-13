@@ -1,0 +1,26 @@
+/* normalize css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--black);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+/* colors */
+:root{
+    --black:#000000;
+    --text-orange:#ff9a68;
+    --font-courier: 'Courier New', Courier, monospace;
+    
+
+}
+
+
